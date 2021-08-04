@@ -1,0 +1,90 @@
+#photoA {
+  max-height: 300px;
+  margin-top: 0;
+  position: relative;
+}
+#Welcome {
+  position: absolute;
+  bottom: 170px;
+  left: 210px;
+font-family: 'Abril Fatface', cursive;
+}
+header {
+  max-height: 300px;
+  max-width: 1000px;
+  font-family: "Abril Fatface";
+  font-weight: 700;
+  color: #222222;
+}
+header h2 {
+  font-size: 30px;
+  margin: 0;
+}
+header h1 {
+  font-size: 50px;
+  margin: 0;
+}
+main {
+font-family: "Josefin Sans";
+    color: #222;
+  align: center;
+  margin: auto;
+  max-width: 600px;
+    text-align: justify;
+}
+.Idezetek {
+  background-color: rgb(68,68,68);
+  color: white;
+  height: 100px;
+  max-width: 600px;
+  text-align: justify;
+  font-weight: 500;
+  font-size: 45px;
+font-family: 'Abril Fatface', cursive;
+      display: table-cell;
+    vertical-align: middle;
+  margin-top: 0;
+}
+ul {
+  list-style: square;
+
+}
+.Dobozok {
+font-family: 'Josefin Sans', sans-serif;
+    color: #222222;
+}
+blockquote::before{
+  content: '❝ ';
+  font-family: 'Abril Fatface', cursive;
+  font-size: 100px:
+  
+}
+hr{
+  display: block;
+  border-width: 4px;
+  height: 2px;
+  background-color: #666;
+  color: #666;
+  margin-before: 0.5em; 
+  margin-after: 0.5em; 
+  margin-start: auto; 
+  margin-end: auto; 
+  overflow: hidden; 
+  order-style: inset; 
+  border-width: 1px;
+}
+main h2 {
+  margin-bottom: 30ox;
+    text-transform: uppercase;
+  color: #222222;
+}
+main h3{
+  margin: 0;
+    color: #222222;
+}
+main h4 {
+  margin: 0;
+font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-weight: 300px;
+}
